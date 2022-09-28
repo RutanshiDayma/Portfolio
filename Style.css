@@ -31,14 +31,13 @@ nav{
     width: 140px;
     border-radius: 10px;
     position: relative;
-    overflow: hidden;
 }
-.logo:hover{
+/*.logo:hover{
     background: #ff004f;
     width: 200px;
     height: 200px;
     transform: translate(-10px);
-}
+}*/
 nav ul li{
     display: inline-block;
     list-style: none;
